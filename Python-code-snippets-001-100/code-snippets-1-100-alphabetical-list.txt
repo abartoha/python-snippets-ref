@@ -1,0 +1,104 @@
+Newb code snippets-1-100
+
+
+14	BBC News RSS reader.py	
+54	Awesome GUI date picker.py	
+96	Body Mass Index Calculator.py	
+20	Centre Root Window on Screen.py	
+52	change Tk window icon.py	
+04	Check if directory exists, if not, then create it.py	
+35	Check if string is a palindrome.py	
+84	check website status.py	
+37	Control desktop App.py	
+08	Convert docx to text.py	
+66	Convert image to greyscale.py	
+90	Convert to almost any audio format.py	
+89	Convert to almost any video format.py	
+06	Copy and paste to and from cipboard.py	
+07	Count how many files in a directory.py	
+25	Create Tabbed Widget.py	
+80	crop image and save.py	
+42	Current Time In Hours And Minutes.py	
+87	Demux audio from a video.py	
+67	Detect usb drives on Windows Machine.py	
+19	determine system platform.py	
+71	Display Live Webcam.py	
+10	Do a Google search and return results.py	
+21	Doc to txt file.py	
+49	Empty recycle bin.py	
+02	Execute an external program.py	
+61	Extract JPEGs from PDFs.py	
+70	Fetch song lyrics.py	
+24	Four simple image filters.py	
+09	Get a definition for a word.py	
+95	Get browser History.py	
+18	Get current Bitcoin value.py	
+23	get exif data from photo.py	
+30	Get file size.py	
+50	Get image type from header.py	
+22	get latest sports scores.py	
+28	Get synonyms from Thesaurus.py	
+05	Get systems current date and time.py	
+85	Get total folder size.py	
+91	get tweets no api.py	
+32	Get URLs From Sitemap.py	
+03	Get user selected directory.py	
+69	Get version of Windows used.py	
+86	Get video file info.py	
+40	Google News RSS feed.py	
+11	grab all links from webpage.py	
+55	Hello World In Flask.py	
+45	kill running programs.py	
+64	Last Modified Date And Size Of File.py	
+58	List all running processes.py	
+92	live video sketcher.py	
+48	most common used words in text.py	
+38	Number Of Words In A Text File.py	
+68	OCR Text From Image.py	
+01	Open a webpage in defaultbrowser.py	
+97	Open webcam in full screen mode.py	
+36	Output CLI calendar.py	
+60	pass parameter from callback.py	
+43	password generator.py	
+75	Percent Free Space On Fixed Drives.py	
+99	Photo cartoonizer.py	
+76	Place Text On Image And Save It.py	
+41	Play mp3 using Pygame.py	
+17	plays windows system sounds.py	
+77	Print Text On Webcam And Save Video.py	
+53	Print Today’s Date For Humans.py	
+27	Profanity Checker.py	
+59	Python Hotkey Shortcuts.py	
+83	Ram Free Checker.py	
+47	Randomly shuffle string.py	
+88	Remux audio back onto a video.py	
+63	Replace Defined Chars In String.py	
+78	Resize Image and save.py	
+39	Right Click Menu For Tkinter.py	
+79	Rotate Image.py	
+98	Save FTP dir listing to text file.py	
+34	Scrape Wikipedia info.py	
+33	scroll down huge twitter pages automatically.py	
+44	Search for file type.py	
+57	send e	mail with attachment.py
+82	Sharpen Image.py	
+72	Show Start	Up Programs.py
+12	Shutdown Windows.py	
+62	Sort Names By Surname.py
+46	Store Variable To File.py
+46-2    Store Variables To File and retrieve.py		
+74	Take a screenshot V2	cross platform.py
+81	Text To Art.py	
+13	Text to Realistic Speech.py	
+93	timelapse video recorder.py	
+31	Tk colour picker.py	
+100	Tk GUI Vertical Scale.py	
+65	Unzip a zip archive.py	
+26	User input dialog.py	
+16	Web Page To Text File.py	
+94	Wget files from the internet.py	
+15	WhoIS domain Look up.py	
+56	Windows Pop	Up Notification.py
+51	Windows Screen Grabber.py	
+29	Word frequency.py	
+73	Zoom And Save Image.py	
